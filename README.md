@@ -1,6 +1,6 @@
 # Dotfiles
 
-From my Fedora install
+From my Ubuntu install
 
 ### Programs covered:
 
