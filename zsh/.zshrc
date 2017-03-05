@@ -84,5 +84,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+source ~/.aliases
+
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-export VAGRANT_DEFAULT_PROVIDER=virtualbox

@@ -1,0 +1,6 @@
+eval "$(hub alias -s)"
+alias gap="git add -p ."
+alias gs="git status -s"
+alias cfg_zsh="vim ~/.zshrc"
+alias cfg_vim="vim ~/.vimrc"
+alias cfg_i3="vim ~/.config/i3/config"

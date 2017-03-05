@@ -5,8 +5,10 @@ From my Ubuntu install
 ### Programs covered:
 
  - abcde
+ - i3
  - ranger
  - rubygems
+ - terminator
  - tmux
  - vim
  - xdefaults (urxvt256c)
@@ -35,9 +37,14 @@ stow vim
 
 ## Dependancies
 
-Some configurations require additional tools:
 
- - ctags
- - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+### Vim
+
  - TheSilverSurfer (ag)
+ - ctags
+
+### ZSH
+
+ - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
+ - [Hub](https://github.com/github/hub)
 
